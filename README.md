@@ -78,6 +78,11 @@ npm run dev
 - Taxes
 - Users and Roles
 
+## 📬 Contact
+For any questions or concerns, please contact us at [abdotaher093@gmail.com](mailto:abdotaher093@gmail.com).
+
+## Developed by [عبدالرحمن طاهر](https://abdotaher.me/) — Laravel & Database Developer.
+
 ## License
 
 This project is open-sourced under the MIT license.
